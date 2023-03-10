@@ -1,2 +1,0 @@
-# view
-my portfolio website
